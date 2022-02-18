@@ -1,4 +1,4 @@
-- 작성일: 2022년 2월 12일(토)
+- 작성일: 2022년 2월 12일(토) ~ 2월 18일(금)
 - Complete CRUD - - Application with Node, Express & MongoDB
 - https://www.youtube.com/watch?v=W1Kttu53qTg&t=5548s
 
